@@ -1,6 +1,6 @@
 # call-otp-python
 
-<p>INSTALASI DI TERMUX</p>
+# INSTALASI DI TERMUX
 ```bash
 > pkg install python
 > cd call-otp-python
@@ -8,7 +8,3 @@
 > python -m pip install requests
 > python otp.py
 ```
-
-<h3>M R V I K O</h3>
-<p>Theanks por</p>
-<p>- mankbarbar</p>
