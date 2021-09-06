@@ -3,7 +3,7 @@
 ## INSTALASI 
 
 ```bash
-> pkg install git && pkg install python
+
 > git clone https://github.com/vikodk67/call-otp-python.git
 > cd call-otp-python
 > python -m pip install pyfiglet
