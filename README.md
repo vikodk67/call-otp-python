@@ -1,6 +1,6 @@
 # call-otp-python
 
-# INSTALASI DI TERMUX
+## INSTALASI DI TERMUX
 ```bash
 > pkg install python
 > cd call-otp-python
