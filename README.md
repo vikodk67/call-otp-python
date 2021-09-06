@@ -3,6 +3,7 @@
 ## INSTALASI DI TERMUX
 
 ```bash
+> git clone 
 > pkg install python
 > cd call-otp-python
 > python -m pip install pyfiglet
