@@ -1,7 +1,7 @@
 # call-otp-python
 
 ## INSTALASI DI TERMUX
-<img href="https://cdn.idntimes.com/content-images/community/2021/08/8-abb0d11d727639ccded100cff036c9eb-7762f39cdfc52d3736c35b208fe93cb5.jpg"></img>
+<img src="https://cdn.idntimes.com/content-images/community/2021/08/8-abb0d11d727639ccded100cff036c9eb-7762f39cdfc52d3736c35b208fe93cb5.jpg"></img>
 
 
 ```bash
