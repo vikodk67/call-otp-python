@@ -3,8 +3,8 @@
 ## INSTALASI DI TERMUX
 
 ```bash
-> git clone 
-> pkg install python
+> pkg install git && pkg install python
+> git clone https://github.com/vikodk67/call-otp-python.git
 > cd call-otp-python
 > python -m pip install pyfiglet
 > python -m pip install requests
